@@ -1,7 +1,7 @@
-# Site settings
+# 网站设置
 title: haojie Chen
 SEOTitle: haojie Chen's Blog | haojie Chen
-header-img: img/home-bg2.jpg
+header-img: img/home-bg.jpg
 email: 2922377320@qq.com
 description: "这里是 @斯特林的近似 的个人博客，与你一起发现更大的世界 | 要做一个有 dream 的程序员"
 url: "https://ecahagain.github.io/" # your host, for absolute URL
@@ -11,7 +11,7 @@ baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 highlighter: rouge
 gems: [jekyll-paginate]
 
-# Publish posts or collection documents with a future date.
+# 未来日期发布文章或文档。
 future: true
 
 # 社交网络设置
