@@ -1,4 +1,4 @@
-[Hux Blog](https://huangxuan.me)
+[haojie Blog](https://ecahagain.github.io/)
 ================================
 
 > I never expect this becomes popular.
