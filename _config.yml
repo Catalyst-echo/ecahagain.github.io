@@ -7,6 +7,10 @@ description: "这里是 @斯特林的近似 的个人博客，与你一起发现
 url: "https://ecahagain.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
+# 支持高亮
+highlighter: rouge
+gems: [jekyll-paginate]
+
 # Publish posts or collection documents with a future date.
 future: true
 
